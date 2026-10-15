@@ -1,6 +1,6 @@
 # Counter App
 
-A simple counter that lets users increase, decrease, and reset the count using JavaScript.
+A simple Counter App to increase, decrease, and reset the count, with the count saved using localStorage.
 
 ## Tech Stack
 
