@@ -1,6 +1,6 @@
 # Counter App
 
-A simple Counter App built to practice JavaScript basics and DOM manipulation.
+A simple counter that lets users increase, decrease, and reset the count using JavaScript.
 
 ## Tech Stack
 
